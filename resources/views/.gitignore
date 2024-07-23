@@ -1,0 +1,4 @@
+# .gitignore
+/test
+/template
+welcome.blade.php
